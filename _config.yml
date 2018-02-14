@@ -72,11 +72,12 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: landscape  #next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:git 
-  repo:git@github.com:unmanei/hexo.git
-  message:hexo edit
+  type: git 
+  repo: git@github.com:unmanei/hexo.git
+  branch: master
+  message: hexo edit
