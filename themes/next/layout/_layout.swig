@@ -88,7 +88,10 @@
   {% include '_third-party/mathjax.swig' %}
   {% include '_third-party/scroll-cookie.swig' %}
   {% include '_third-party/exturl.swig' %}
+<<<<<<< HEAD
   
 
+=======
+>>>>>>> e
 </body>
 </html>
